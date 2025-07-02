@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "git add . && git commit -m 'f' && git push origin main - command for fast push",
   "devDependencies": {
     "gulp": "^5.0.1",
     "gulp-autoprefixer": "^9.0.0",
@@ -17,5 +17,13 @@
     "gulp-sourcemaps": "^3.0.0",
     "sass": "^1.89.2"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldplayer/m_perepilka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goldplayer/m_perepilka/issues"
+  },
+  "homepage": "https://github.com/goldplayer/m_perepilka#readme"
 }
